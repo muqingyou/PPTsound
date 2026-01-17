@@ -1,0 +1,16 @@
+{
+  "ALIYUN_ACCESS_KEY_ID": "",
+  "ALIYUN_ACCESS_KEY_SECRET": "",
+  "ALIYUN_APP_KEY": "",
+  "ALIYUN_REGION_ID": "cn-shanghai",
+  "CHARACTERS": [
+    {
+      "name": "骰娘",
+      "voice": "xiaomei"
+    },
+    {
+      "name": "KP",
+      "voice": "zhitian"
+    }
+  ]
+}
