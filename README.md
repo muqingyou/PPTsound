@@ -6,7 +6,11 @@ https://www.bilibili.com/video/BV19B4y1A7nG?spm_id_from=333.788.videopod.episode
 因为没有看到实装朗读女功能,所以做了一个简单的插入音频器,可以在PPT页插入音频文件,然后播放PPT就可以做成简易跑团视频了。exe执行文件在zip包中。
 
 
-暂时使用阿里云接口（3个月试用）,需要自行申请阿里云ACCESS_KEY和APP_KEY：
+暂时使用阿里云接口（3个月试用）,需要自行申请阿里云ACCESS_KEY和APP_KEY，官网教程链接：
+https://help.aliyun.com/zh/isi/getting-started/start-here?spm=a2c4g.11186623.help-menu-30413.d_1_0.720d6a85YtRsZs&scm=20140722.H_72138._.OR_help-T_cn~zh-V_1
+
+
+音色excel里的内容可根据以下链接替换：
 https://help.aliyun.com/zh/isi/developer-reference/overview-of-speech-synthesis?spm=a2c4g.11186623.0.0.43197cebK6WYph#5186fe1abb7ag
 
 
