@@ -19,7 +19,10 @@ https://help.aliyun.com/zh/isi/developer-reference/overview-of-speech-synthesis?
 2. 插入的音频文件不能自动播放且有喇叭图标。
 
 ==========更新日志润色功能=============
+
 支持对log.txt中kp扮演npc的识别替换，使用阿里百炼模型tongyi-xiaomi-analysis-flash
 
+
 ==========更新朗读女支持===============
+
 插入朗读女生成的全文音频，根据lrc文件设置PPT自动切换
