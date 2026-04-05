@@ -20,9 +20,9 @@ https://help.aliyun.com/zh/isi/developer-reference/overview-of-speech-synthesis?
 
 ==========更新日志润色功能=============
 
-支持对log.txt中kp扮演npc的识别替换，使用阿里百炼模型tongyi-xiaomi-analysis-flash
+textTool.py支持对log.txt中kp扮演npc的识别替换，使用阿里百炼模型tongyi-xiaomi-analysis-flash
 
 
 ==========更新朗读女支持===============
 
-插入朗读女生成的全文音频，根据lrc文件设置PPT自动切换
+插入朗读女生成的全文音频，PPTAutoPlay.py根据lrc文件设置PPT自动切换
